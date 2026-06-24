@@ -4,7 +4,7 @@
 
 音響解析で撃ち合いを検出し、ElevenLabs Scribe の転写から本人のヒットコール（「Nダウン」「やった」「ナイス」等）を拾って命中シーンを網羅する。
 
-設計と試行錯誤の背景は記事を参照: [video-useから始めて、サバゲーのハイライト自動化スキルを作った話](https://zenn.dev/) <!-- 公開後にURL差し替え -->
+設計と試行錯誤の背景は記事を参照: [video-useから始めて、サバゲーのハイライト自動化スキルを作った話](https://zenn.dev/tokium_dev/articles/airsoft-video-use-highlight)
 
 ## 導入
 
